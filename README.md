@@ -1,5 +1,5 @@
 # paytm_payment_verification_using_mail
-An unofficial Paytm script that verfies user PayTM transaction id and paid amount by comparing with mail to allow user registration. Here is the [DEMO](https://myaccount.google.com/u/0/security)
+An unofficial Paytm script that verfies user PayTM transaction id and paid amount by comparing with mail to allow user registration. Here is the [DEMO](https://paytm.nktutorial.com/)
 
 ## Getting Started
 download and upload your file on hosting server or localhost then edit the all necessary information like gmail credential and database detail in data.php file and set the minimum amount to receive amounts from user.
